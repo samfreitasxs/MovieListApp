@@ -36,13 +36,13 @@ struct ListMovieView: View {
     MovieList(
         title: "Titanic",
         subtitle: "Uma história de amor épica ambientada no naufrágio do Titanic, com efeitos especiais impressionantes e atuações memoráveis.",
-        image: "titaniccc"),
+        image: "titanic"),
      MovieList(
          title: "Sociedade dos Poetas Mortos",
          subtitle: "Filmografia do cineasta australiano, a versão positiva e intimista do tema que ele sempre abordou",
          image: "poetas"),
      MovieList(
-         title: "mocn",
+         title: "Mocn",
          subtitle: "A chegada de uma “estranha” jovem médica no interior americano.",
          image: "mocn")
      
