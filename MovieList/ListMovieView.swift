@@ -52,7 +52,7 @@ struct ListMovieView: View {
             VStack {
                 List {
                     Text("Lista de Filmes")
-                        .font(.title)
+                        .font(.headline)
                     Image("movie")
                         .resizable()
                         .scaledToFit()

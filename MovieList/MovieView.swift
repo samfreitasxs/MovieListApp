@@ -17,7 +17,7 @@ struct MovieView: View {
                 .resizable()
                 .scaledToFit()
             Text(title)
-                .font(.title)
+                .font(.headline)
                 .padding()
             Text(subtitle)
                 .font(.subheadline)
