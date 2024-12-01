@@ -17,7 +17,7 @@ struct MovieList {
 struct ListMovieView: View {
     
     var movieList = [
-        MovieList(
+    MovieList(
         title: "A Lista de Schindler",
         subtitle: "Um retrato poderoso do Holocausto, com atuações marcantes e uma história emocionante sobre a humanidade em tempos de guerra.",
         image: "schindler"),
