@@ -23,11 +23,11 @@ struct ListMovieView: View {
         image: "schindler"),
     MovieList(
         title: "O Poderoso Chefão",
-        subtitle: "Uma obra-prima do cinema que explora a vida de uma família mafiosa, com personagens complexos e uma narrativa envolvente.",
+        subtitle: "Uma obra-prima do cinema que explora a vida de uma família mafiosa.",
         image: "godfather"),
     MovieList(
         title: "Pulp Fiction",
-        subtitle: "Um filme cult de Quentin Tarantino, com diálogos afiados, humor negro e uma narrativa não linear que desafia as convenções do cinema.",
+        subtitle: "Um filme cult de Quentin Tarantino, com diálogos afiados, humor negro.",
         image: "pulp"),
     MovieList(
         title: "O Senhor dos Anéis",
